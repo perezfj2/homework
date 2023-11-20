@@ -1,0 +1,19 @@
+1. From the intial commit, create a new branch called 'bug-fix'
+2. Edit readme, creating the commit 1
+3. Edit readme again, creating commit 2
+4. Go to 'bug-fix' branch and create a new file and add content, commit 3
+5. Create more edits in 'bug-fix', this is commit 4
+6. I create a new branch called 'bug-fix-experimental', which is branched from 'bug-fix'
+7. I create a new pull request to merge main into 'bug-fix' branch creating commit 5
+8. Go to 'bug-fix' and edit contents once again, commit 6
+9. Go to bug-fix-experimental and upload dank meme, commit 7
+10. Add a new file with content, commit 8
+11. Edit that file, commit 9
+12. Go to main and edit readme again, commit 10
+13. Create a pull request to merge bug-fix-experimental into bug-fix, commit 11
+14. Edit readme in bug-fix to create merge conflict, commit 12
+15. Create pull request to merge bug-fix into main, commit 13
+16. Resolve merge conflict
+17. Upload this file to create commit 14
+
+I did this all on the github desktop website, I didn't use commands
